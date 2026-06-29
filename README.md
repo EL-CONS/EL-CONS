@@ -32,43 +32,38 @@
 ## Certifications
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-
-<a href="https://www.credly.com/badges/858afafa-61ac-427d-9507-297653cbfc61" target="_blank">
-    <img src="./imagenes/certificaciones/aws_badge_1.png" width="150" alt="aws-cloud-quest-cloud-practitioner-training-badge">
-</a>
-<a href="https://www.credly.com/badges/637e849f-d910-4438-a0ae-f46c50a94bd5" target="_blank">
-    <img src="./imagenes/certificaciones/aws_badge_2.png" width="150" alt="aws-cloud-quest-generative-ai-practitioner-training">
-</a>
-
+  <a href="https://www.credly.com/badges/858afafa-61ac-427d-9507-297653cbfc61" target="_blank">
+    <img src="/imagenes/certificaciones/aws_badge_1.png" width="150" alt="AWS Cloud Practitioner Badge">
+  </a>
+  <a href="https://www.credly.com/badges/637e849f-d910-4438-a0ae-f46c50a94bd5" target="_blank">
+    <img src="/imagenes/certificaciones/aws_badge_2.png" width="150" alt="AWS Generative AI Practitioner Badge">
+  </a>
 </div>
 
 
 ## Achievements 
-<div style="display: flex;justify-content: space-between;align-items: center; gap: 20px;">
-<a href="https://oficialiamayor.sonora.gob.mx/dataton" target="_blank"><img src="./imagenes/certificaciones/recurso-2logo-dataton-blanco-y-rosita.png" width="250">
-</a>
-
-+ ***Datatón Sonora 2026 (2026): First place certificate in the security category.(2026)*** 
- **Granted by Agencia de Transformación Digital y Telecomunicaciones del Gobierno del Estado de Sonora.**
-
-Designed and implemented an interactive Power BI dashboard focused on data-driven decision making.
-
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://oficialiamayor.sonora.gob.mx/dataton" target="_blank">
+    <img src="/imagenes/certificaciones/recurso-2logo-dataton-blanco-y-rosita.png" width="150" alt="Dataton Sonora Logo">
+  </a>
+  <div>
+    <strong>Datatón Sonora 2026 — First Place (Security Category)</strong><br>
+    <em>Granted by Agencia de Transformación Digital y Telecomunicaciones del Gobierno del Estado de Sonora.</em>
+    <p>Designed and implemented an interactive Power BI dashboard focused on data-driven decision making.</p>
+  </div>
 </div>
 
-## Free time projects ;)
-
-<div style="display: flex;justify-content: space-between;align-items: center; gap: 20px;">
-
-<a href="https://https://el-conz.itch.io/" target="_blank">
-    <img src="./imagenes/sitios_web/Itch.io_logo.PNG" width="150" alt="mi perfil de itch.io">
-</a>
-
-+ **I build experimental projects, prototypes, and indie games in my free time. Click the card to explore my profile.**
-  
 
 
+## Free Time Projects ;)
 
-
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://el-conz.itch.io/" target="_blank">
+    <img src="/imagenes/sitios_web/Itch.io_logo.png" width="150" alt="My Itch.io Profile">
+  </a>
+  <div>
+    <p>I build experimental projects, prototypes, and indie games in my free time. Click the card to explore my profile.</p>
+  </div>
 </div>
 
 
