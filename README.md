@@ -6,26 +6,26 @@
             justify-content: space-betweaen;
             align-items: center;">
 
-<a href="https://www.credly.com/badges/858afafa-61ac-427d-9507-297653cbfc61" target="_blank">
-  <img src="./imagenes/certificaciones/aws_badge_1.png" width="150" alt="aws-cloud-quest-cloud-practitioner-training-badge">
-</a>
+  <a href="https://www.credly.com/badges/858afafa-61ac-427d-9507-297653cbfc61" target="_blank">
+    <img src="./imagenes/certificaciones/aws_badge_1.png" width="150" alt="aws-cloud-quest-cloud-practitioner-training-badge">
+  </a>
 
-<a href="https://www.credly.com/badges/637e849f-d910-4438-a0ae-f46c50a94bd5" target="_blank">
-  <img src="./imagenes/certificaciones/aws_badge_2.png" width="150" alt="aws-cloud-quest-generative-ai-practitioner-training">
-</a>
+  <a href="https://www.credly.com/badges/637e849f-d910-4438-a0ae-f46c50a94bd5" target="_blank">
+    <img src="./imagenes/certificaciones/aws_badge_2.png" width="150" alt="aws-cloud-quest-generative-ai-practitioner-training">
+  </a>
 
 
 ### Proyectos de tiempo libre 
 
-<a href="https://el-conz.itch.io/" target="_blank">
-  <img src="./imagenes/sitios_web/Itch.io_logo.PNG" width="150" alt="Mi perfil de itch.io"> 
-</a>
+  <a href="https://el-conz.itch.io/" target="_blank">
+  <img src="./imagenes/sitios_web/Itch.io_logo.PNG" width="150" alt="Mi perfil de itch.io>
+  </a>
 
 
 
 
 
-<!-- 
+<!---
 para uso futuro
 <a href="<link>" target="_blank">
     <img src="./badge.png" width="150" alt="Badge">
