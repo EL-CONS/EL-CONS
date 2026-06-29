@@ -19,7 +19,7 @@
 
 <a href="https://https://el-conz.itch.io/" target="_blank">
     <img src="./imagenes/sitios_web/itch.io_logo.png" width="150" alt="mi perfil de itch.io">
-</
+</a>
 
 <!-- 
 para uso futuro
