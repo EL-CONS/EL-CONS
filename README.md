@@ -17,7 +17,7 @@
 
 ### Proyectos de tiempo libre 
 
-<a href="https://https://el-conz.itch.io/">
+<a href="https://https://el-conz.itch.io/" target="_blank">
   <img src="./imagenes/sitios_web/Itch.io_logo.PNG" width="150" alt="Mi perfil de itch.io"> 
 </a>
 
