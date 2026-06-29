@@ -1,5 +1,6 @@
 ## Hola me dicen el Cons
 
+### Certificaciones :)
 
 <div style="display: flex;
             justify-content: space-betweaen;
@@ -12,6 +13,17 @@
 <a href="https://www.credly.com/badges/637e849f-d910-4438-a0ae-f46c50a94bd5" target="_blank">
   <img src="./aws_badge_2.png" width="150" alt="aws-cloud-quest-generative-ai-practitioner-training">
 </a>
+
+
+### Proyectos de tiempo libre 
+
+<a href="https://https://el-conz.itch.io/">
+  <img src="https://itch.io/static/images/logo-black-new.png" width="150" alt="Mi perfil de itch.io"> 
+</a>
+
+
+
+
 
 <!-- 
 para uso futuro
