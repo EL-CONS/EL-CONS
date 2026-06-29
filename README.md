@@ -68,9 +68,6 @@
 
 
 
-<p align="center">
-  <img src="./imagenes/calaquita.gif" width="900" alt="Calaquita Animation">
-</p>
 
 <!-- FOR FUTURE use
  
