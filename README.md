@@ -1,27 +1,37 @@
 # HI, im Gabriel Cons
 
 > **_Machines take me by surprise with great frequency._**  <sub>Alan Mathison Turing</sub>
-### Programing tools i use
+## Programming tools i use
 
 + **Languages:** _C, C++, Python, Java, Bash, C#_
 + **Version control:** _Git_
 + **Editor:** _Neovim ,Visual Studio Code, JetBrains IDEs._
-+ **OS:** _GNU/Linux_ (curently daily driving OMARCHY)
++ **OS:** _GNU/Linux_ (currently daily driving OMARCHY)
 
 
-## Tech Stack & Tools
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
+
 </p>
 
-### Certifications
 
-<div style="display: flex;justify-content: space-between;align-items: center;">
+## Certifications
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
 <a href="https://www.credly.com/badges/858afafa-61ac-427d-9507-297653cbfc61" target="_blank">
     <img src="./imagenes/certificaciones/aws_badge_1.png" width="150" alt="aws-cloud-quest-cloud-practitioner-training-badge">
@@ -33,7 +43,7 @@
 </div>
 
 
-### Achievements 
+## Achievements 
 <div style="display: flex;justify-content: space-between;align-items: center; gap: 20px;">
 <a href="https://oficialiamayor.sonora.gob.mx/dataton" target="_blank"><img src="./imagenes/certificaciones/recurso-2logo-dataton-blanco-y-rosita.png" width="250">
 </a>
@@ -45,7 +55,7 @@ Designed and implemented an interactive Power BI dashboard focused on data-drive
 
 </div>
 
-### Proyectos de tiempo libre ;)
+## Free time projects ;)
 
 <div style="display: flex;justify-content: space-between;align-items: center; gap: 20px;">
 
