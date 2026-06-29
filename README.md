@@ -1,9 +1,12 @@
 ## Hola me dicen Cons
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="637e849f-d910-4438-a0ae-f46c50a94bd5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="858afafa-61ac-427d-9507-297653cbfc61" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/858afafa-61ac-427d-9507-297653cbfc61" target="_blank">
+  <img src="https://images.credly.com/images/b26b3e94-a3f2-4ec4-9cb3-db0f08ecbb71/image.png" width="150" alt="AWS Certification">
+</a>
 
-
+<a href="https://www.credly.com/badges/637e849f-d910-4438-a0ae-f46c50a94bd5" target="_blank">
+  <img src="https://images.credly.com/images/154fa980-df85-48b4-9029-79a039750b28/image.png" width="150" alt="Credly Badge">
+</a>
 
 
 <!-- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
