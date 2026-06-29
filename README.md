@@ -1,6 +1,15 @@
-# Hola, me dicen el cons
+# HI, im Gabriel Cons
 
-### Certificaciones :)
+> **_Machines take me by surprise with great frequency._**  <sub>Alan Mathison Turing</sub>
+### Programing tools i use
+
++ **Languages:** _C, C++, Python, Java, Bash, C#_
++ **Version control:**  ** _Git_
++ **Editor:** _Neovim ,Visual Studio Code, JetBrains IDEs._
++ **OS:** _GNU/Linux_ (curently daily driving OMARCHY)
+
+
+### Certifications
 
 <div style="display: flex;justify-content: space-between;align-items: center;">
 
@@ -23,6 +32,7 @@
 
 <!-- 
 para uso futuro
+
 <a href="<link>" target="_blank">
     <img src="./badge.png" width="150" alt="badge">
   </a>
@@ -31,25 +41,57 @@ para uso futuro
 
 </div>
 
+<!-- FOR FUTURE use
+ 
+
+TABLES
+
+
+| Columna 1 | Columna 2 | Columna 3 |
+| --------- | --------- | --------- |
+| Fila 1    | Dato 1    | Dato 2    |
+| Fila 2    | Dato 3    | Dato 4    |
 
 
 
-<!-- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+
+- [ ] Tarea pendiente
+- [x] Tarea completada
+
+
+
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 
 
 
 
-<!--
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -->
+
