@@ -42,7 +42,7 @@
         <img src="imagenes/certificaciones/aws_badge_2.png" width="150" alt="AWS Generative AI Practitioner Badge">
       </a>
       <br/>
-    <a href=="https://www.credly.com/badges/637e849f-d910-4438-a0ae-f46c50a94bd5"target="_blank">Verify</a>
+    <a href="https://www.credly.com/badges/637e849f-d910-4438-a0ae-f46c50a94bd5" target="_blank">Verify</a>
     </td>
   </tr>
 </table>
